@@ -92,5 +92,8 @@
   <ItemGroup>
     <None Include="Resources\pies.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="graph.py" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

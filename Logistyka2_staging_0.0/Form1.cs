@@ -115,7 +115,7 @@ namespace Logistyka2_staging_0._0
 
         private void pythonoweCuda()
         {
-            bool Laptop = true;
+            bool Laptop = false;
             string python = "";
             string myPythonApp = "";
             if (Laptop)
@@ -129,7 +129,7 @@ namespace Logistyka2_staging_0._0
             else
             {
                 python = "python";
-                myPythonApp = @"C:\Users\admin\PycharmProjects\logistyka\proj1\tworzenie_macierzy.py";
+                myPythonApp = @"C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\graph.py";
 
             }
 
@@ -143,7 +143,7 @@ namespace Logistyka2_staging_0._0
             // start python app with 3 arguments  
             // 1st arguments is pointer to itself,  
             // 2nd and 3rd are actual arguments we want to send 
-
+            myProcessStartInfo.Arguments = myPythonApp;
 
             Process myProcess = new Process();
             // assign start information to the process 

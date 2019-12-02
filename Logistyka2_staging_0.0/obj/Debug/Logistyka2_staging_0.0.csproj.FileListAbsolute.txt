@@ -11,3 +11,16 @@ C:\Users\Lenovo\source\repos\Logistyka2_staging_0.0\Logistyka2_staging_0.0\obj\D
 C:\Users\Lenovo\source\repos\Logistyka2_staging_0.0\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Lenovo\source\repos\Logistyka2_staging_0.0\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Lenovo\source\repos\Logistyka2_staging_0.0\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CopyComplete
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.exe.config
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.exe
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.pdb
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0._0.Form1.resources
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0._0.Properties.Resources.resources
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CopyComplete
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.exe
+C:\Users\admin\Source\Repos\ProjektLogistyka\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.pdb
