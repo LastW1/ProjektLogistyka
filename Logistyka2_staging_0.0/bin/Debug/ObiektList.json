@@ -1,8 +1,24 @@
 {
   "krawedzie": [
     {
-      "poprzednie": 11,
-      "nastepne": 1,
+      "poprzednie": 1,
+      "nastepne": 2,
+      "czasNormalny": 1,
+      "czasGraniczny": 1,
+      "kosztNormalny": 1.0,
+      "kosztGraniczny": 1.0
+    },
+    {
+      "poprzednie": 2,
+      "nastepne": 3,
+      "czasNormalny": 1,
+      "czasGraniczny": 1,
+      "kosztNormalny": 1.0,
+      "kosztGraniczny": 1.0
+    },
+    {
+      "poprzednie": 1,
+      "nastepne": 3,
       "czasNormalny": 1,
       "czasGraniczny": 1,
       "kosztNormalny": 1.0,
